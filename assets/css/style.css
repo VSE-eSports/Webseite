@@ -827,7 +827,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
   color: #000000;
 }
 .canvas_close a:hover {
-  color: #ffb83c;
+  color: #F05454;
   -webkit-transform: scale(1.3) rotate(180deg);
           transform: scale(1.3) rotate(180deg);
 }
