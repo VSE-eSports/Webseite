@@ -51,7 +51,6 @@ h1 {
   font-size: 120px;
   line-height: 120px;
   color: #ffffff;
-  text-transform: uppercase;
 }
 
 h2 {
@@ -1672,35 +1671,35 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
 }
 @media only screen and (min-width: 1200px) and (max-width: 1600px) {
   .hero_content h1 {
-    font-size: 95px;
+    font-size: 87px;
     line-height: 98px;
   }
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   .hero_content h1 {
     margin-bottom: 33px;
-    font-size: 88px;
+    font-size: 83px;
     line-height: 88px;
   }
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .hero_content h1 {
     margin-bottom: 21px;
-    font-size: 75px;
+    font-size: 70px;
     line-height: 78px;
   }
 }
 @media only screen and (max-width: 767px) {
   .hero_content h1 {
     margin-bottom: 15px;
-    font-size: 52px;
+    font-size: 46px;
     line-height: 55px;
   }
 }
 @media only screen and (max-width: 575px) {
   .hero_content h1 {
     margin-bottom: 13px;
-    font-size: 40px;
+    font-size: 35px;
     line-height: 48px;
   }
 }
