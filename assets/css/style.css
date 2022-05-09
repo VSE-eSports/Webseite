@@ -1556,7 +1556,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
   background-attachment: scroll;
   background-position: center center;
   background-size: cover;
-  height: 940px;
+  height: 950px;
   position: relative;
 }
 @media only screen and (min-width: 1200px) and (max-width: 1600px) {
